@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ArzXploit 👋</h1>
+<h1 align="center">Hi there, I'm AryzXploit 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArzXploit&label=Profile%20Views&color=blue&style=plastic" alt="ArzXploit profile views" />
